@@ -1,0 +1,23 @@
+*{
+background-color: aqua;
+}
+
+
+a{
+    color: red;
+}
+
+
+
+ul {
+background-color: chocolate;
+}
+
+
+@media screen and (max-width: 600px) {
+    body {
+        background-color:brown;
+    }    h1 {
+        color:darkgoldenrod   }
+    
+}
